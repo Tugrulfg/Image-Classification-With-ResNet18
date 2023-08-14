@@ -1,4 +1,4 @@
-# ResNet18-Implmenetation
+# ResNet18-Implementation
 Implementing ResNet18 for CIFAR100 image classification task.
 
 Training Accuracy: 73
